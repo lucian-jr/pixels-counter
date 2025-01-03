@@ -17,7 +17,10 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
 
 - Obs: É preciso rodar o comando na pasta /pixels-counter (raiz do projeto).
 
-2. **Utilize algum software de teste de APIs**: Insomnia, Postman ou outro.
+2. **Utilize algum software de testes de APIs**:
+    - Insomnia
+    - Postman
+    - outro
 
 3. **API**:
     - Utilize a URL http://127.0.0.1:8000/verifyPixels/ (Porta padrão = 8000. Trocar caso a porta for diferente);
