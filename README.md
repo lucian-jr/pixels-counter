@@ -15,7 +15,7 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
     ```bash
     uvicorn main:app --reload
 
-    - Obs: É preciso rodar o comando na pasta /pixels-counter (raiz do projeto).
+- Obs: É preciso rodar o comando na pasta /pixels-counter (raiz do projeto).
 
 2. **Utilize algum software de teste de APIs**: Insomnia, Postman ou outro.
 
