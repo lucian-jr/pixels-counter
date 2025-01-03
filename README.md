@@ -29,5 +29,5 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
         - muito.jpg 
         - tudo.jpg
 
-Após seguir esses passos, é a API irá retornar um JSON com os dados da Requisição. 
+Após seguir esses passos, a API irá retornar um JSON com os dados da Requisição. 
 Incluindo a quantidade de pixels pretos da imagem no caso de sucesso. Assim como uma mensagem específicando um erro, caso ocorra.
