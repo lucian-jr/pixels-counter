@@ -10,8 +10,9 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
 
 ## Passos para Configuração
 
-1. **Inicie o servidor no terminal** : 
+1. **Inicie o servidor rodando o seguinte comando no terminal** : 
 
+    ```bash
     uvicorn main:app --reload
 
     - Obs: É preciso rodar o comando na pasta /pixels-counter (raiz do projeto).
