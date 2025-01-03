@@ -10,7 +10,10 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
 
 ## Passos para Configuração
 
-1. **Inicie o servidor no terminal**: uvicorn main:app --reload.
+1. **Inicie o servidor no terminal** : 
+
+    uvicorn main:app --reload
+
     - Obs: É preciso rodar o comando na pasta /pixels-counter (raiz do projeto).
 
 2. **Utilize algum software de teste de APIs**: Insomnia, Postman ou outro.
@@ -30,4 +33,5 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
         - tudo.jpg
 
 Após seguir esses passos, a API irá retornar um JSON com os dados da Requisição. 
-Incluindo a quantidade de pixels pretos da imagem no caso de sucesso. Assim como uma mensagem específicando um erro, caso ocorra.
+Incluindo a quantidade de pixels pretos da imagem no caso de sucesso. 
+Assim como uma mensagem específicando um erro, caso ocorra.
