@@ -1,6 +1,6 @@
 # Pixels Counter
 
-O **Pixels Counter+** é um projeto em python, desenvolvido para auxiliar na contagem dos pixels pretos de uma imagem.
+O **Pixels Counter** é um projeto em python, desenvolvido para auxiliar na contagem dos pixels pretos de uma imagem.
 
 ## Requisitos
 
@@ -17,8 +17,8 @@ Para iniciar o projeto, é necessário instalar algumas bibliotecas utilizando o
 
 3. **API**:
     - Utilize a URL http://127.0.0.1:8000/verifyPixels/ (Porta padrão = 8000. Trocar caso a porta for diferente);
-    - Método POST;
-    - Body no formato JSON, utilizando os parâmetros: id e file_name;
+    - Método: POST;
+    - Body no formato JSON, utilizando os parâmetros;
         - id (int)
         - file_name (string)
 
